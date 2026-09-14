@@ -8,8 +8,13 @@
     width: 1366px;
     height: 756px;
     border: 1px solid black;
+    margin: auto;
 }
 .nav {
     width: 1366px;
-    height: ;
+    height: 64px;
+    border: 1px solid black;
+}
+.b {
+    border: 1px solid black;
 }
