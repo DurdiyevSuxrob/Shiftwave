@@ -16,11 +16,23 @@
     border: 1px solid black;
 }
 .b {
-    width: 150px;
+    width: 180px;
     height: 40px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    align-items: center;
 }
 .shift img {
     width: 50px;
-    height: 50px;
+    height: 30px;
+}
+.b p {
+    margin-top: -35px;
+    margin-left: 50px;
+}
+.shift {
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.shift1 {
+    width: ;
 }
