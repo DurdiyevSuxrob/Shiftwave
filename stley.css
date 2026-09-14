@@ -82,4 +82,17 @@
   margin-left: 10px;
 }
 /* ============================== */
-
+.ret {
+    width: 607px;
+    height: 36px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.p {
+    /* border: 1px solid black; */
+    margin-top: 5px;
+}
+.p1 {
+    
+}
