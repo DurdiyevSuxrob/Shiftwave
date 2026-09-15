@@ -85,14 +85,20 @@
 .ret {
     width: 607px;
     height: 36px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     justify-content: space-between;
+    margin-top: 60px;
+    border-radius: 8px;
+    background-color: white;
+
 }
 .p {
     /* border: 1px solid black; */
     margin-top: 5px;
 }
-.p1 {
-    
+.ret a {
+    margin-top: 9px;
+    margin-right: 20px;
+    text-decoration: none;
 }
