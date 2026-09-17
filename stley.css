@@ -172,3 +172,14 @@
 .kor i {
   color: blueviolet;
 }
+
+@media (max-width: 768px) {
+  .nav {
+    width: 768px;
+    height: 64px;
+  }
+  .div {
+    width: 338px;
+    margin-right: 820px;
+  }
+} 
