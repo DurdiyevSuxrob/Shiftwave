@@ -182,4 +182,32 @@
     width: 338px;
     margin-right: 820px;
   }
+  .ret {
+    width: 607px;
+    height: 36px;
+  }
+  .h1 {
+    width: 704px;
+    height: 144px;
+    /* border: 1px solid black; */
+  }
+  .bosh {
+    height: 1202px;
+  }
+  .p1 {
+    width: 704px;
+    height: 90px;
+  
+  }
+  .ret1 {
+    width: 704px;
+    height: 616px;
+  }
+  .btn2 {
+    border: 1px solid red;
+    
+  }
+  .div {
+    
+  }
 } 
