@@ -211,7 +211,9 @@
     border: 1px solid red;
     
   }
-  .btn1 {
-    
+  .shift1 {
+    border: 1px solid black;
+    margin-right: 12px;
   }
+  
 } 
