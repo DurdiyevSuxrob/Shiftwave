@@ -180,7 +180,9 @@
   }
   .div {
     width: 338px;
-    margin-right: 820px;
+    margin-right: 840px;
+    border: 2px solid black;
+
   }
   .ret {
     width: 607px;
@@ -202,12 +204,14 @@
   .ret1 {
     width: 704px;
     height: 616px;
+    display: flex;
+    flex-direction: column;
   }
   .btn2 {
     border: 1px solid red;
     
   }
-  .div {
+  .btn1 {
     
   }
 } 
